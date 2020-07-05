@@ -6,7 +6,7 @@
         <sys_class_name>sys_data_policy_rule</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-05 07:21:14</sys_created_on>
-        <sys_data_policy display_value="Sets the Item field to mandatory">498e7a3d2f311010986dd8ddf699b6f9</sys_data_policy>
+        <sys_data_policy display_value="Sets the Item field to mandatory_UPDATE">498e7a3d2f311010986dd8ddf699b6f9</sys_data_policy>
         <sys_id>4d8e7a3d2f311010986dd8ddf699b6fb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>item</sys_name>
